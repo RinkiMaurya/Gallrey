@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gallrey/static/css/main.92ff7dc0.css",
+    "main.js": "/Gallrey/static/js/main.5eabbfa9.js",
+    "static/js/787.1381c473.chunk.js": "/Gallrey/static/js/787.1381c473.chunk.js",
+    "index.html": "/Gallrey/index.html",
+    "main.92ff7dc0.css.map": "/Gallrey/static/css/main.92ff7dc0.css.map",
+    "main.5eabbfa9.js.map": "/Gallrey/static/js/main.5eabbfa9.js.map",
+    "787.1381c473.chunk.js.map": "/Gallrey/static/js/787.1381c473.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ff7dc0.css",
+    "static/js/main.5eabbfa9.js"
+  ]
+}
